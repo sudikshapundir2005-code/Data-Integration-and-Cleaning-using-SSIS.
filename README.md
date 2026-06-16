@@ -2,7 +2,6 @@
 1. Control Flow(control_flow.png)
 2. Data Flow(data_flow.png)
 
-# Data Integration and Cleaning using SSIS
 This project demonstrates a robust ETL (Extract, Transform, Load) pipeline built using SQL Server Integration Services (SSIS). It is designed to automate data processing and provide real-time status updates.
 
 ## Project Overview
